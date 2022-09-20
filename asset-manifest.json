@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/wptyxiakh/static/css/main.523f09c5.chunk.css",
+    "main.js": "/wptyxiakh/static/js/main.051a3407.chunk.js",
+    "main.js.map": "/wptyxiakh/static/js/main.051a3407.chunk.js.map",
+    "runtime-main.js": "/wptyxiakh/static/js/runtime-main.584fadd7.js",
+    "runtime-main.js.map": "/wptyxiakh/static/js/runtime-main.584fadd7.js.map",
+    "static/js/2.428f7139.chunk.js": "/wptyxiakh/static/js/2.428f7139.chunk.js",
+    "static/js/2.428f7139.chunk.js.map": "/wptyxiakh/static/js/2.428f7139.chunk.js.map",
+    "precache-manifest.3029ec7b426c30a9df5de65f5e25354a.js": "/wptyxiakh/precache-manifest.3029ec7b426c30a9df5de65f5e25354a.js",
+    "react.php": "/wptyxiakh/react.php",
+    "service-worker.js": "/wptyxiakh/service-worker.js",
+    "static/css/main.523f09c5.chunk.css.map": "/wptyxiakh/static/css/main.523f09c5.chunk.css.map",
+    "static/js/2.428f7139.chunk.js.LICENSE.txt": "/wptyxiakh/static/js/2.428f7139.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.584fadd7.js",
+    "static/js/2.428f7139.chunk.js",
+    "static/css/main.523f09c5.chunk.css",
+    "static/js/main.051a3407.chunk.js"
+  ]
+}
